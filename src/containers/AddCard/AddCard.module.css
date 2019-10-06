@@ -1,0 +1,14 @@
+.cardField{
+    text-align: center;
+    display: block;
+    margin-bottom: 0%;
+}
+input{
+    display: block;
+    text-align: center;
+    width: 350px;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 5px auto;
+    border-radius: 10px;
+}
